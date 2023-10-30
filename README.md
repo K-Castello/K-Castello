@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @K-Castello
 - 👀 I’m interested in melee combat design and gameplay animation
-- 🌱 I’m currently learning UE5, Melee combat design, environment design and Gameplay Animation
-- 💞️ I’m looking to collaborate on UE5 best practices for Nanite, Lumen and gameplay/level/animation design.
+- 🌱 I’m always learning UE5, Melee combat design, and new animation tech from Epic Games and Gameplay Ability System
+- 💞️ My happy place is in my personal projects where project constraints are few and far between to let creativity and innovation go unhindered
 - 📫 How to reach me Kcastello@pm.me
 
 <!---
